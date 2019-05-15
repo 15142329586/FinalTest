@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FinalTest"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.1"
   spec.summary      = "final test for the spec."
 
   spec.description  = <<-DESC
