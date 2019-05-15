@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "my" => "15142329586" }
   spec.platform     = :ios, "9.0"
 
-  spec.source       = { :git => "https://github.com/15142329586/FinalTest=.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/15142329586/FinalTest.git", :tag => spec.version }
 
   spec.source_files  = "AlertView/*.{h,m}"
 
