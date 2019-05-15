@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/15142329586/FinalTest.git", :tag => spec.version }
 
-  spec.source_files  = "AlertView/*.{h,m}"
+  spec.source_files  = "SMYView/*.{h,m}"
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
