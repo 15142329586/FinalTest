@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
-  spec.author             = { "my" => "15142329586" }
+  spec.author             = { "mingyue" => "15142329586@163.com" }
   spec.platform     = :ios, "9.0"
 
   spec.source       = { :git => "https://github.com/15142329586/FinalTest.git", :tag => spec.version }
