@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FinalTest"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "final test for the spec."
 
   spec.description  = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 
 
   spec.author             = { "mingyue" => "15142329586@163.com" }
-  spec.platform     = :ios, "9.0"
+  spec.platform     = :ios, "8.0"
 
   spec.source       = { :git => "https://github.com/15142329586/FinalTest.git", :tag => spec.version }
 
